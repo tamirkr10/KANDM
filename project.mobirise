@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "KANDM",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -32,7 +32,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 3,
-    "versionPublish": "4.8.3"
+    "versionPublish": "4.8.3",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
